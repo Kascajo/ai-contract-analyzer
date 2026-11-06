@@ -2,3 +2,4 @@ streamlit
 pdfplumber
 pydantic
 google-genai
+python-dotenv
